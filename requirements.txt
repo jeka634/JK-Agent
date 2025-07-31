@@ -1,0 +1,25 @@
+# Основные зависимости для работы с GigaChat
+langchain-gigachat>=0.0.1
+langchain-core>=0.1.0
+langchain-community>=0.0.10
+
+# LangGraph для создания агентов
+langgraph>=0.0.20
+
+# Поиск в интернете
+langchain-tavily>=0.0.1
+
+# Telegram Bot API
+python-telegram-bot>=20.0
+
+# Firebase для хранения данных
+firebase-admin>=6.0.0
+
+# Переменные окружения
+python-dotenv>=1.0.0
+
+# HTTP запросы
+requests>=2.31.0
+
+# Дополнительные утилиты
+uuid>=1.30 
